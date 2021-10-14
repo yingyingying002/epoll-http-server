@@ -8,7 +8,7 @@ linux环境下epoll实现的接收http请求的服务器，有简单客户端用
 
 编译命令:
 
-cd build
+mkdir build && cd build
 
 cmake .. .
 
